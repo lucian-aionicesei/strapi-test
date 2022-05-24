@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_saved_items_cars",
+  "info": {
+    "displayName": "car",
+    "icon": "apple-alt"
+  },
+  "options": {},
+  "attributes": {
+    "carName": {
+      "type": "string"
+    }
+  }
+}

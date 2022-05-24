@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_saved_items_carts",
+  "info": {
+    "displayName": "Cart",
+    "icon": "shopping-cart"
+  },
+  "options": {},
+  "attributes": {
+    "tickets": {
+      "displayName": "ticket",
+      "type": "component",
+      "repeatable": false,
+      "component": "tickets.ticket"
+    }
+  }
+}

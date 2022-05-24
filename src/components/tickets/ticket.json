@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_tickets_tickets",
+  "info": {
+    "displayName": "ticket",
+    "icon": "ticket-alt"
+  },
+  "options": {},
+  "attributes": {
+    "general": {
+      "type": "integer"
+    },
+    "premuim": {
+      "type": "integer"
+    }
+  }
+}
